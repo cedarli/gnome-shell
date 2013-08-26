@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="nautilus.desktop" open-window-count="1" score="13" last-seen="1377487105"/>
+    <application id="file-roller.desktop" open-window-count="1" score="2" last-seen="1377486804"/>
+    <application id="gedit.desktop" open-window-count="0" score="41" last-seen="1377486571"/>
+    <application id="gnome-tweak-tool.desktop" open-window-count="0" score="10" last-seen="1377487368"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="32" last-seen="1377487691"/>
+    <application id="gnome-terminal.desktop" open-window-count="1" score="641" last-seen="1377487695"/>
+    <application id="libreoffice-calc.desktop" open-window-count="0" score="4" last-seen="1377487502"/>
+    <application id="wine.desktop" open-window-count="1" score="54" last-seen="1377487696"/>
+    <application id="skype.desktop" open-window-count="1" score="36" last-seen="1377487425"/>
+    <application id="thunderbird.desktop" open-window-count="1" score="79" last-seen="1377487525"/>
+    <application id="gnome-system-monitor.desktop" open-window-count="0" score="1" last-seen="1377487325"/>
+  </context>
+</application-state>
