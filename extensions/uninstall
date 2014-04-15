@@ -1,0 +1,8 @@
+#! /bin/sh
+for file in `ls`;
+do
+    if [ "$file" != "install" ] && [ "$file" != "uninstall" ] ; then
+        echo "remove:/usr/share/gnome-shell/extensions/"$file
+        sudo rm -rf /usr/share/gnome-shell/extensions/$file
+    fi
+done
